@@ -1,0 +1,24 @@
+# General
+.DS_Store
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Data files
+*.csv
+*.xls
+*.xlsx
+*.json
+*.zip
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environment
+env/
+venv/
+
+# System files
+Thumbs.db
