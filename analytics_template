@@ -1,0 +1,22 @@
+data-analytics-template/
+│
+├── data/
+│   ├── raw/            # Store raw data files.
+│   ├── processed/      # Store cleaned and processed data files.
+│   └── dictionaries/   # Store data dictionaries.
+│
+├── notebooks/
+│   ├── exploratory/    # Notebooks for exploratory data analysis.
+│   ├── modeling/       # Notebooks for modeling and predictions.
+│   └── templates/      # Notebook templates.
+│
+├── src/                # Python scripts and modules for reusable code.
+│
+├── docs/               # Documentation files.
+│   └── changelog.md    # Project change log.
+│
+├── .gitignore          # Ignore files and folders not to be tracked by Git.
+│
+├── README.md           # Repository overview and setup instructions.
+│
+└── requirements.txt    # List of Python dependencies.
